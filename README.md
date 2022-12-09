@@ -57,8 +57,7 @@ npx create-next-app@latest name_of_app
 cd name_of_app
 ```
 
-## (if you cloned the repo from somewhere else, make sure to npm install first
-npm install)
+## (if you cloned the repo from somewhere else, make sure to npm install first npm install)
 
 ### Build it
 ```
